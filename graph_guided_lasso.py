@@ -10,7 +10,7 @@ Original file is located at
 Based on - Graph -Structured Multi-task Regression and Efficient Optimization Method for General Fused Lasso;
 Authors 	- Xi Chen, Seyoung Kim, Qihang Lin, Jaime G. Carbonell, Eric P. Xing\\
 Source 		- [v1] Thu, 20 May 2010 on arXiv:1005.3579 https://arxiv.org/abs/1005.3579
-By: Andrew Murza, Nitin Mishra, Abhilash Chaudhary
+By: Abhilash Chaudhary
 """
 
 # Commented out IPython magic to ensure Python compatibility.
